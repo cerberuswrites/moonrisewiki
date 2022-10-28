@@ -3,6 +3,7 @@ site_name: MOONRISE WIKI
 theme:
     name: 'material'
     favicon: images/favicon.png
+    logo: :simple-moonrepo:
     font:
       text: Jost
     palette:
