@@ -1,9 +1,11 @@
 :root > * {
+--md-typeset-a-color:#6F70CE;
 --md-accent-fg-color:#6F70CE;
 --md-primary-fg-color: #6F70CE;
 --md-primary-fg-color--light: #6F70CE;
 --md-primary-fg-color--dark: #6F70CE;
 --md-default-bg-color: #1E1F27;
+--md-default-fg-color: hsla(var(--md-hue),5%,75%,1);
 }
 
 .md-typeset h4 {
@@ -35,11 +37,12 @@
 
 .md-typeset blockquote code {
   background-color: var(--md-default-fg-color--lightest);
-  padding: 0 0.2rem;
+  padding: 0 0.3rem;
   text-transform: uppercase;
   font-family: Jost;
   font-size: 0.75em;
   color: var(--md-accent-bg-color--light);
+  border-radius: 8px;
 }
 
 [dir="ltr"] .md-typeset blockquote {
@@ -84,4 +87,8 @@ blockquote .tabbed-set {
 
 .md-typeset .tabbed-labels > label {
   text-transform: uppercase;
+}
+
+.md-sidebar__inner {
+  text-transform: lowercase;
 }
