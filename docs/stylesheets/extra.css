@@ -1,0 +1,87 @@
+:root > * {
+--md-accent-fg-color:#6F70CE;
+--md-primary-fg-color: #6F70CE;
+--md-primary-fg-color--light: #6F70CE;
+--md-primary-fg-color--dark: #6F70CE;
+--md-default-bg-color: #1E1F27;
+}
+
+.md-typeset h4 {
+  font-weight: 700;
+  margin: 1em 0 0 0;
+  font-family: Playfair Display;
+  letter-spacing: 1px;
+  font-size: 1.3em;
+}
+
+[dir="ltr"] .md-typeset blockquote {
+  padding-left: 1rem;
+}
+
+.md-typeset blockquote {
+  color: inherit;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.md-typeset a {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset blockquote strong {
+  color: var(--md-accent-fg-color);
+  text-transform: uppercase;
+}
+
+.md-typeset blockquote code {
+  background-color: var(--md-default-fg-color--lightest);
+  padding: 0 0.2rem;
+  text-transform: uppercase;
+  font-family: Jost;
+  font-size: 0.75em;
+  color: var(--md-accent-bg-color--light);
+}
+
+[dir="ltr"] .md-typeset blockquote {
+  border-left: .2rem solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset h3 {
+  font-family: playfair display;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  font-style: italic;
+}
+
+.md-typeset h2 {
+  line-height: 1.4;
+  margin: 1.6em 0 .64em;
+  font-family: playfair display;
+  font-weight: bold;
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  border-bottom: 0.35rem solid var(--md-accent-fg-color);
+  width: 10%;
+  white-space: nowrap;
+}
+
+h4 + blockquote {
+  margin-top: 0px !important;
+}
+blockquote .tabbed-set {
+  margin-top: 0.5em !important;
+}
+
+.md-typeset h1 {
+  font-family: playfair display;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: center;
+  color: var(--md-accent-bg-color--light);
+  border-bottom: 0.2rem solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.5rem;
+}
+
+.md-typeset .tabbed-labels > label {
+  text-transform: uppercase;
+}

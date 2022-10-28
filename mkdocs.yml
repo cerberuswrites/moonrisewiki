@@ -1,6 +1,7 @@
-site_name: obsidian-mkdocs template
+site_name: MOONRISE WIKI
 
 theme:
+  favicon: images/favicon.png
   font:
     text: Jost
     name: 'material'
