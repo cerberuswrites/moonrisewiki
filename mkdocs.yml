@@ -1,9 +1,6 @@
 site_name: MOONRISE WIKI
 
 theme:
-  favicon: images/favicon.png
-  font:
-    text: Jost
     name: 'material'
     palette:
 
@@ -24,6 +21,14 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+theme:
+  favicon: images/favicon.png
+
+theme:
+  font:
+    text: Jost
+
 
 # Extensions
 markdown_extensions:
