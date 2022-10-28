@@ -25,6 +25,9 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   # - attr_list
   - pymdownx.arithmatex:
       generic: true
