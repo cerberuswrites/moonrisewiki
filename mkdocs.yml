@@ -22,13 +22,6 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-theme:
-  favicon: images/favicon.png
-
-theme:
-  font:
-    text: Jost
-
 
 # Extensions
 markdown_extensions:
