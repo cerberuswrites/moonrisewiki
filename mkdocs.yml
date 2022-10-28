@@ -22,7 +22,6 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
-
 # Extensions
 markdown_extensions:
   - footnotes
@@ -65,3 +64,10 @@ extra_javascript:
 
 extra_css:
   - stylesheets/extra.css
+
+theme:
+  favicon: images/favicon.png
+
+theme:
+  font:
+    text: Jost
