@@ -5,26 +5,8 @@ theme:
     favicon: images/favicon.png
     font:
       text: Jost
-    palette:
-	scheme: slate
-
-    # Light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: pink
-      accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+  palette:
+    scheme: slate
 
 # Extensions
 markdown_extensions:
