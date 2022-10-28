@@ -1,7 +1,7 @@
 # SUBPLOT FORMAT TEST
 
-## FACTION
-### mission cycles
+## HEADER 2
+### header 3
 
 #### TITLE — [LINK](https://moon-rise.boards.net/thread/41/)
 

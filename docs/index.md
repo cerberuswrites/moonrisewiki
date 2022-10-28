@@ -4,7 +4,7 @@
 
 ```
 git status
-git add -a
+git add
 git commit -m "commit message here"
 git push
 ```
