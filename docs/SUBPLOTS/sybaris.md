@@ -3,14 +3,14 @@
 ## MISSION CYCLES
 
 
-#### MISSION CYCLE 001 — [PROTECTION RACKET](https://moon-rise.boards.net/thread/41/)
+#### 001 — [PROTECTION RACKET](https://moon-rise.boards.net/thread/41/)
 
 > === "overview"
 > 
 >     **OCTOBER 2021 — THE DOCKS, DELPHI**
 >     the owner of a _jewellery chain_ situated by _the docks_ offers hefty rewards for a series of _protection missions_, claiming to have _angered hydra_ and fearing for their safety.
 
-#### MISSION CYCLE 002 — [FIGHT CLUB](https://moon-rise.boards.net/thread/294/)
+#### 002 — [FIGHT CLUB](https://moon-rise.boards.net/thread/294/)
 
 > === "overview"
 > 

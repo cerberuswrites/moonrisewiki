@@ -83,6 +83,7 @@ blockquote .tabbed-set {
   color: var(--md-accent-bg-color--light);
   border-bottom: 0.2rem solid var(--md-default-fg-color--lightest);
   padding-bottom: 0.5rem;
+text-transform:uppercase;
 }
 
 .md-typeset .tabbed-labels > label {
@@ -91,4 +92,23 @@ blockquote .tabbed-set {
 
 .md-sidebar__inner {
   text-transform: lowercase;
+}
+
+blockquote em {
+  color: var(--md-accent-fg-color);
+}
+
+.md-nav__item .md-nav__link--active {
+  color: var(--md-accent-fg-color);
+  font-style: italic;
+}
+
+.md-footer__link {
+  text-transform: lowercase;
+}
+
+.md-footer-meta {
+  background-color: var(--md-footer-bg-color);
+  text-transform: lowercase;
+  opacity: 0.7;
 }
