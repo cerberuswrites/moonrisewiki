@@ -3,45 +3,38 @@
 ## FACTION
 ### mission cycles
 
-#### MISSION CYCLE 001 — [PROTECTION RACKET](https://moon-rise.boards.net/thread/41/)
-> OCTOBER 2021 — THE DOCKS, DELPHI
-> the owner of a *jewellery chain* situated by *the docks* offers hefty rewards for a series of *protection missions*, claiming to have *angered hydra* and fearing for their safety.
 
-=== **"Unordered list"**
+#### TITLE — [LINK](https://moon-rise.boards.net/thread/41/)
 
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
+=== "overview"
 
-=== **"Ordered list"**
+    **MONTH 20XX — LOCATION, CITY**
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+=== "minor npcs"
+
+    * **NAME MCNAME** `staff-/player-made` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    * **NAME MCNAME** `staff-/player-made` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+=== "player involvement"
+
+    * **NAME & NAME** `played by name` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    * **NAME & NAME** `played by name` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-how do these content blocks get separated tho 
+#### TITLE — [LINK](https://moon-rise.boards.net/thread/41/)
 
-=== "Unordered list"
-
-    * Sed sagittis eleifend rutrum
-    * Donec vitae suscipit est
-    * Nulla tempor lobortis orci
-
-=== "Ordered list"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
-
-is it automatic or like what gives
-
-=== "tab one"
-
-    test one two three
-
-=== "tab two"
-
-    1. Sed sagittis eleifend rutrum
-    2. Donec vitae suscipit est
-    3. Nulla tempor lobortis orci
+> === "overview"
+> 
+>     **MONTH 20XX — LOCATION, CITY**
+>     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+> 
+> === "minor npcs"
+> 
+>     * **NAME MCNAME** `staff-/player-made` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+>     * **NAME MCNAME** `staff-/player-made` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> 
+> === "player involvement"
+> 
+>     * **NAME & NAME** `played by name` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+>     * **NAME & NAME** `played by name` Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
