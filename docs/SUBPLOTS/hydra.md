@@ -14,11 +14,11 @@
 > 
 >     * **[HA-YOON & MADDOX](https://moon-rise.boards.net/thread/153/show-tell-mission)** `PLAYED BY PAN & LAV` while casing out the old citadel, the two notice the hints of a *breeze* from within the citadel's hidden underground tunnels.
 
-####  002 — [REGROUP, PT. II](https://moon-rise.boards.net/thread/291/)
+####  002 — REGROUP, PT. II
 
 > === "overview"
 > 
->     **JANUARY 2022 — VARIOUS LOCATIONS**
+>     [**JANUARY 2022 — VARIOUS LOCATIONS**](https://moon-rise.boards.net/thread/291/)
 >     hydra hunts down some remaining traitors from [[../FAQ/historical events#THE GREAT WAR|the great war]], intent on sending a message.
 > 
 > === "player involvement"
