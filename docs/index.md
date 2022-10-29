@@ -6,6 +6,12 @@ this is an unofficial, member-run repository of the site's plot development, sub
 
 if you wish to add in material relevant to your character, whether it's a subplot, faction, or anything that was missed out, feel free to dm lav about it!
 
+
+## key site links
+
+- ic site timeline
+- spell database
+
 ## dev notes for lav
 
 ```
