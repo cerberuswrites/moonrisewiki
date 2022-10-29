@@ -19,7 +19,7 @@
 > === "overview"
 > 
 >     **JANUARY 2022 — SUIXA, THE WILDERNESS**
->     pegasus investigates reports of *missing children* in a village called *[[moonrisewiki/docs/FAQ/locations#SUIXA|suixa]]*.
+>     pegasus investigates reports of *missing children* in a village called *[[../FAQ/locations#SUIXA|suixa]]*.
 > 
 > === "player involvement"
 > 
