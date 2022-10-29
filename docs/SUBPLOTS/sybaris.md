@@ -17,7 +17,7 @@
 >     **JANUARY 2022 — DOWNTOWN, DELPHI**
 >     the host of this year's *witch wrestling supershow* is hiring sybarites to stage magical fights, complete with costumes and storylines.
 > 
-> === "minor npcs"
+> === "npcs"
 > 
->     * **JAMIE LOCKHART** `staff-made` an infamously idle rich kid in sybaris, who hosted this year's *witch wrestling supershow*.
->     * **UNKNOWN** `staff-made` made an appearance in [a house divided](https://moon-rise.boards.net/thread/318/house-divided). a witch in the audience who had said *contra mundum* to jamie, albeit to no effect.
+>     * **JAMIE LOCKHART** `minor npc` an infamously idle rich kid in sybaris, who hosted this year's *witch wrestling supershow*.
+>     * **UNKNOWN** `minor npc` made an appearance in [a house divided](https://moon-rise.boards.net/thread/318/house-divided). a witch in the audience who had said *contra mundum* to jamie, albeit to no effect.
