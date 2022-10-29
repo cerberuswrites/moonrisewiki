@@ -24,3 +24,14 @@
 > === "player involvement"
 > 
 >     * **[JAE & SERAFIM](https://moon-rise.boards.net/thread/322/sand-fingers-mission)** `PLAYED by CILA & LAV` the orphanage they investigated bore the claw marks of a *daemon attack*, yet the daemon they slew a little too easily outside the village had a lair devoid of any signs of a recent meal. some things seem *out of place*. 
+
+#### 003 — [WILD THINGS](https://moon-rise.boards.net/thread/488/)
+
+> === "overview"
+> 
+>     **APRIL 2022 — THE WILDERNESS**
+>     pegasus witches are deployed to collect data for the decennial update of the *mythical beast encyclopaedia*, venturing into the wilderness to tag *mythical beasts* while trying to disrupt the natural environment as little as possible.
+> 
+> === "player involvement"
+> 
+>     * **[ONE & TWO](https://moon-rise.boards.net/thread/322/sand-fingers-mission)** `PLAYED by NAME & NAME` description of thread findings go here.
