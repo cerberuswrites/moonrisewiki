@@ -174,3 +174,11 @@ li::marker {
 .tabbed-block a:hover {
 color:var(--md-code-hl-special-color);
 }
+
+blockquote blockquote {
+  background-color: transparent !important;
+  border-left: 3px solid var(--md-default-fg-color--lightest) !important;
+margin: 0 !important;
+padding: 0 0 0 0.5em !important;
+  border-radius: 0px !important;
+}
