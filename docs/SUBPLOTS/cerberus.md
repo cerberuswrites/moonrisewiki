@@ -17,4 +17,14 @@
 > 
 >     **JANUARY 2022 — VARIOUS LOCATIONS**
 >     cerberus commences this year's *helios next* externship program, assigning young witches to cerberus alumni for grimoire research and writing.
+
+#### 003 — [HIGHWAY TO HELL](https://moon-rise.boards.net/thread/490/)
+
+> === "overview"
 > 
+>     **APRIL 2022 — THE WILDERNESS**
+>     a small group of rogue witches known as *the highwaymen* are capitalising on the increase in broom usage after the [[../EVENTS/cad takeover#CONSEQUENCES|events of the cad takeover]], terrorising travellers between [[../FAQ/locations#ECLIPSE|eclipse]] and delphi.
+>     
+> === "player involvement"
+> 
+>     * **[TEDDY & TOMOMI](https://moon-rise.boards.net/thread/545)** `PLAYED by BEAU & SHO` mission synopsis and findings go here.

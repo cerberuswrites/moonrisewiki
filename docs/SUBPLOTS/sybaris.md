@@ -27,7 +27,7 @@
 > === "overview"
 > 
 >     **APRIL 2022 — VARIOUS LOCATIONS**
->     political tensions are rising, resulting in some internal coven factionalism between *dmitri* and *perseus riker*. 
+>     with [[../EVENTS/cad takeover#CONSEQUENCES|sybaris involvement in the cad services]], political tensions are rising, resulting in some internal coven factionalism between *dmitri* and *perseus riker*. 
 > 
 > === "npcs"
 > 
