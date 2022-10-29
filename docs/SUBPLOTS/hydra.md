@@ -16,13 +16,25 @@
 
 ####  002 — [REGROUP, PT. II](https://moon-rise.boards.net/thread/291/)
 
-> === "overview"
-> 
->     **JANUARY 2022 — VARIOUS LOCATIONS**
->     hydra hunts down some remaining traitors from [[../FAQ/historical events#THE GREAT WAR|the great war]], intent on sending a message.
-> 
-> === "player involvement"
-> 
->     * **[HA-YOON & MADDOX](https://moon-rise.boards.net/thread/153/show-tell-mission)** `PLAYED BY RINNY & LAV` they find a folder emblazoned with the *cerberus* crest, labelled *'report on compliance with the eden agreement'*. it mentions previous leaders of sybaris, and ends with *dmitri wisbane's* name.
-> 	    * this bullet point thing is driving me insane 
->     * **[ERIN & YAZMINE](https://moon-rise.boards.net/thread/428)** `PLAYED BY JUNO & CILA` their victim's last words are unsettling. *hydra lost the war for a reason,* he says. *the leviathan betrayed us.*
+=== "overview"
+
+**JANUARY 2022 — VARIOUS LOCATIONS**
+hydra hunts down some remaining traitors from [[../FAQ/historical events#THE GREAT WAR|the great war]], intent on sending a message.
+
+=== "player involvement"
+
+* **[HA-YOON & MADDOX](https://moon-rise.boards.net/thread/153/show-tell-mission)** `PLAYED BY RINNY & LAV` they find a folder emblazoned with the *cerberus* crest, labelled *'report on compliance with the eden agreement'*. it mentions previous leaders of sybaris, and ends with *dmitri wisbane's* name.
+	* this bullet point thing is driving me insane 
+* **[ERIN & YAZMINE](https://moon-rise.boards.net/thread/428)** `PLAYED BY JUNO & CILA` their victim's last words are unsettling. *hydra lost the war for a reason,* he says. *the leviathan betrayed us.*
+
+
+=== "overview"
+
+	**JANUARY 2022 — VARIOUS LOCATIONS**
+	hydra hunts down some remaining traitors from [[../FAQ/historical events#THE GREAT WAR|the great war]], intent on sending a message.
+
+=== "player involvement"
+
+	* **[HA-YOON & MADDOX](https://moon-rise.boards.net/thread/153/show-tell-mission)** `PLAYED BY RINNY & LAV` they find a folder emblazoned with the *cerberus* crest, labelled *'report on compliance with the eden agreement'*. it mentions previous leaders of sybaris, and ends with *dmitri wisbane's* name.
+		* this bullet point thing is driving me insane 
+	* **[ERIN & YAZMINE](https://moon-rise.boards.net/thread/428)** `PLAYED BY JUNO & CILA` their victim's last words are unsettling. *hydra lost the war for a reason,* he says. *the leviathan betrayed us.*

@@ -9,7 +9,18 @@
 --md-default-fg-color--lightest: hsla(var(--md-hue),75%,90%,0.05);
 }
 
-[dir="ltr"] .md-typeset blockquote {
+/* TABBED CONTENT STYLING */
+.tabbed-set.tabbed-alternate {
+  border-left: 0px solid transparent;
+  background-color: var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  padding: 0.2rem 1rem 0 1rem;
+  text-align: justify;
+}
+
+/* BLOCKQUOTE STYLING */
+
+/* [dir="ltr"] .md-typeset blockquote {
   padding-left: 1rem;
 }
 
@@ -36,7 +47,7 @@
   font-size: 0.75em;
   color: var(--md-accent-bg-color--light);
   border-radius: 8px;
-}
+} */
 
 /* BLOCKQUOTE DISPLAY
 .md-typeset h4 {
