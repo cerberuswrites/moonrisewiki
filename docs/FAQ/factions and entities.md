@@ -1,4 +1,4 @@
-# FAQ: FACTIONS & ENTITIES
+# FACTIONS & ENTITIES
 ## FACTIONS AND ENTITIES
 
 ### the council of delphi

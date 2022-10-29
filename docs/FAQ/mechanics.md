@@ -1,4 +1,4 @@
-# FAQ: MECHANICS
+# MECHANICS
 ## MECHANICS
 
 ### familiars
