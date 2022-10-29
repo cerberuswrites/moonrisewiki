@@ -21,3 +21,15 @@
 > 
 >     * **JAMIE LOCKHART** `minor npc` an infamously idle rich kid in sybaris, who hosted this year's *witch wrestling supershow*.
 >     * **UNKNOWN** `minor npc` made an appearance in [a house divided](https://moon-rise.boards.net/thread/318/house-divided). a witch in the audience who had said *contra mundum* to jamie, albeit to no effect.
+
+#### 003 — [THE MUTINEERS](https://moon-rise.boards.net/thread/491/)
+
+> === "overview"
+> 
+>     **APRIL 2022 — VARIOUS LOCATIONS**
+>     political tensions are high after sybaris's *price hike on cad services*.
+> 
+> === "npcs"
+> 
+>     * **JAMIE LOCKHART** `minor npc` an infamously idle rich kid in sybaris, who hosted this year's *witch wrestling supershow*.
+>     * **UNKNOWN** `minor npc` made an appearance in [a house divided](https://moon-rise.boards.net/thread/318/house-divided). a witch in the audience who had said *contra mundum* to jamie, albeit to no effect.

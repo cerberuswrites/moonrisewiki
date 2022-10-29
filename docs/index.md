@@ -11,6 +11,44 @@ if you wish to add in material relevant to your character, whether it's a subplo
 - ic site timeline
 - spell database
 
+## site ooc timeline
+
+### patch 1.0 — 1.3
+- missions:
+	- mission cycle 001 — the dragon has three heads
+		- jan 2022
+- events: 
+	- winter solstice celebrations
+	- fire and ice
+	- ooc introductions
+
+### patch 2.0 — 2.7
+- missions:
+	- mission cycle 002 — places that you don't belong
+		- jan — feb 2022
+	- mission cycle 003 — the road not taken
+		- feb — mar 2022
+	- mission cycle 004 — your heart's got teeth
+		- apr — may 2022
+	- mission cycle 005 — interlude
+		- may — jul 2022
+- events:
+	- cad takeover
+	- six-pointed star
+	- karaoke night
+	- pegasus afterparty
+	- augury of the phoenix
+
+### patch 3.0 — 3.x?
+- missions:
+	- mission cycle 006 — blame game
+		- jul — aug 2022
+	- mission cycle 007 — wolf in sheep's clothing
+		- aug — nov 2022
+- events:
+	- novice exchange program
+	- silverwing gala
+
 ## dev notes for lav
 
 ```

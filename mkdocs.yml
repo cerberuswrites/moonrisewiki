@@ -11,6 +11,10 @@ theme:
       scheme: slate
       primary: pink
       accent: blue
+    features:
+      - navigation.tabs
+      - navigation.sections
+      - navigation.top
 
 # Extensions
 markdown_extensions:
