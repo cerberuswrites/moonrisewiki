@@ -164,13 +164,13 @@ li::marker {
   font-size: 0.85em;
 } */
 
-blockquote a {
+.tabbed-block a {
   text-transform: uppercase;
   font-weight: bold;
   font-style: normal;
   box-shadow: inset 0 -10px 0 0 var(--md-default-fg-color--lightest);
 }
 
-blockquote a:hover {
+.tabbed-block a:hover {
 color:var(--md-code-hl-special-color);
 }
