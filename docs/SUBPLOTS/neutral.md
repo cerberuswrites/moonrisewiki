@@ -30,7 +30,7 @@
 > === "overview"
 > 
 >     **APRIL 2022 — DOWNTOWN DELPHI & TARTARUS**
->     a series of scheduled protests around the *[[../EVENTS/cad takeover#CONSEQUENCES|sybaris-STA deal]]* breaks into a *violent riot*, fuelled by a rise in *anti-witch sentiment*.
+>     a series of scheduled protests around the *[[../MAJOR EVENTS/cad takeover#CONSEQUENCES|sybaris-STA deal]]* breaks into a *violent riot*, fuelled by a rise in *anti-witch sentiment*.
 > 
 > === "npcs"
 > 

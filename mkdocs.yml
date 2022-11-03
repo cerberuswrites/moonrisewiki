@@ -12,7 +12,6 @@ theme:
       primary: pink
       accent: blue
     features:
-      - navigation.sections
       - navigation.top
 
 # Extensions
