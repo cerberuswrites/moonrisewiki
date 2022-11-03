@@ -27,4 +27,8 @@
 >     
 > === "player involvement"
 > 
->     * **[TEDDY & TOMOMI](https://moon-rise.boards.net/thread/545)** `PLAYED by BEAU & SHO` mission synopsis and findings go here.
+>     * **[TEDDY & TOMOMI](https://moon-rise.boards.net/thread/545)** `PLAYED by BEAU & SHO` while waiting for law enforcement to arrive, an elderly human woman named *miss marbel* complains about local politics: the decision to host *[[../EVENTS/novice exchange program|n.e.p.]]* in eclipse, how *magic* is a *curse*, how the now-disappeared *rowenna*[^1] would never have let that happen…
+>     * **[MILO & AIDEN](https://moon-rise.boards.net/thread/611)** `PLAYED by PAN & KIMMY` they successfully apprehend some of the highwaymen, but are swiftly escorted away by a squadron of *hunters*. two weeks later, a cerberus *funeral* is announced: *an entire squadron* has been wiped out in the depths of *the jairwood*.
+
+
+[^1]: who is rowenna? what is her connection with eclipse? why has she disappeared?
