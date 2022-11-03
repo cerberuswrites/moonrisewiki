@@ -24,3 +24,18 @@
 > === "npcs"
 > 
 >     * **LANCE** `minor npc` made an appearance in [out of scale](https://moon-rise.boards.net/thread/391/mission-out-scale). a champion of cerberus, apparently investigating the new dawn and finding it wanting.
+
+####  003 — [IGNITION PT. I](https://moon-rise.boards.net/thread/492)
+
+> === "overview"
+> 
+>     **APRIL 2022 — DOWNTOWN DELPHI & TARTARUS**
+>     a series of scheduled protests around the *[[../EVENTS/cad takeover#CONSEQUENCES|sybaris-STA deal]]* breaks into a *violent riot*, fuelled by a rise in *anti-witch sentiment*.
+> 
+> === "npcs"
+> 
+>     * **DMITRI** `MAJOR npc` description of involvement here.
+>     * **FARAH** `MAJOR npc` description of involvement here.
+>     * **CAIN** `MAJOR npc` description of involvement here.
+>     * **EMMA** `Minor npc` description of involvement here.
+

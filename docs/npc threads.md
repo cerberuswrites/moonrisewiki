@@ -1,6 +1,6 @@
 # NPC THREADS
 
-## EZEKIEL BELGRASS
+## MONTH 20XX
 
 
 #### [SNAKES IN EDEN](https://moon-rise.boards.net/thread/1245/)
@@ -8,7 +8,7 @@
 > === "overview"
 > 
 >     **JULY 2022 — THE BLIND MONKEY, DELPHI DOCKS**
->     `MINOR NPC QUEST` brief thread summary here.
+>     `MINOR NPC QUEST` brief thread summary here. #ezekiel
 > 
 > === "details"
 > 

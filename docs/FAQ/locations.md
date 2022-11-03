@@ -4,7 +4,7 @@
 #### DELPHI
 > === "overview"
 > 
->     a one or two-sentence descriptor of the location.
+>     `OFFICIAL` a one or two-sentence descriptor of the location.
 >     
 > === "faq"
 > 
@@ -13,7 +13,7 @@
 #### THE VALE
 > === "overview"
 > 
->     a one or two-sentence descriptor of the location.
+>     `OFFICIAL` a one or two-sentence descriptor of the location.
 >     
 > === "faq"
 > 
@@ -22,7 +22,7 @@
 #### ECLIPSE
 > === "overview"
 > 
->     a one or two-sentence descriptor of the location.
+>     `OFFICIAL` a one or two-sentence descriptor of the location.
 >     
 > === "faq"
 > 
@@ -31,7 +31,7 @@
 #### MYCA DESERT
 > === "overview"
 > 
->     a one or two-sentence descriptor of the location.
+>     `OFFICIAL` a one or two-sentence descriptor of the location.
 >     
 > === "faq"
 > 
