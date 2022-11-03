@@ -1,0 +1,195 @@
+:root > * {
+--md-typeset-a-color:#6F70CE;
+--md-accent-fg-color:#6F70CE;
+--md-primary-fg-color: #6F70CE;
+--md-primary-fg-color--light: #6F70CE;
+--md-primary-fg-color--dark: #6F70CE;
+--md-default-bg-color: #1E1F27;
+--md-default-fg-color: hsla(var(--md-hue),5%,75%,1);
+--md-default-fg-color--lighter: hsla(var(--md-hue),75%,90%,0.1);
+--md-default-fg-color--lightest: hsla(var(--md-hue),75%,90%,0.05);
+}
+
+/* BLOCKQUOTE STYLING */
+
+[dir="ltr"] .md-typeset blockquote {
+  padding-left: 1rem;
+}
+
+.md-typeset blockquote {
+  color: inherit;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.md-typeset a {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset blockquote strong {
+  color: var(--md-accent-fg-color);
+  text-transform: uppercase;
+}
+
+.md-typeset blockquote code {
+  background-color: var(--md-default-fg-color--lightest);
+  padding: 0 0.3rem;
+  text-transform: uppercase;
+  font-family: Jost;
+  font-size: 0.75em;
+  color: var(--md-accent-bg-color--light);
+  border-radius: 8px;
+}
+
+/* BLOCKQUOTE DISPLAY
+.md-typeset h4 {
+  font-weight: 700;
+  margin: 1em 0 0 0;
+  font-family: Playfair Display;
+  letter-spacing: 1px;
+  font-size: 1.3em;
+}
+
+[dir="ltr"] .md-typeset blockquote {
+  border-left: .2rem solid var(--md-default-fg-color--lightest);
+}
+
+h4 + blockquote {
+  margin-top: 0px !important;
+} 
+
+blockquote .tabbed-set {
+  margin-top: 0.5em !important;
+} */
+
+/* BLOCKQUOTE DISPLAY V2 */
+.md-typeset h4 {
+  font-weight: 700;
+  margin: 1em 0 0 0;
+  font-family: Playfair Display;
+  letter-spacing: 1px;
+  font-size: 1.3em;
+  background-color: var(--md-default-fg-color--lightest);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+}
+
+[dir="ltr"] .md-typeset blockquote {
+  border-left: 0px solid transparent;
+  background-color: var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  padding: 0.2rem 1rem 0.2rem 1rem;
+  text-align: justify;
+}
+
+blockquote .tabbed-set {
+  margin: 0px !important;
+}
+
+h4 + blockquote {
+  margin-top: 5px !important;
+}
+
+[dir="ltr"] .md-typeset ol li, [dir="ltr"] .md-typeset ul li {
+  margin-left: 1em;
+}
+
+.md-typeset h3 {
+  font-family: playfair display;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  font-style: italic;
+}
+
+.md-typeset h2 {
+  line-height: 1.4;
+  margin: 1.6em 0 .64em;
+  font-family: playfair display;
+  font-weight: bold;
+  font-size: 1.6rem;
+  letter-spacing: 1px;
+  border-bottom: 0.35rem solid var(--md-accent-fg-color);
+  width: 10%;
+  white-space: nowrap;
+}
+
+
+
+.md-typeset h1 {
+  font-family: playfair display;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-align: center;
+  color: var(--md-accent-bg-color--light);
+  border-bottom: 0.2rem solid var(--md-default-fg-color--lightest);
+  padding-bottom: 0.5rem;
+text-transform:uppercase;
+}
+
+.md-typeset .tabbed-labels > label {
+  text-transform: uppercase;
+}
+
+.md-sidebar__inner {
+  text-transform: lowercase;
+}
+
+blockquote em {
+  color: var(--md-accent-fg-color);
+}
+
+.md-nav__item .md-nav__link--active {
+  color: var(--md-accent-fg-color);
+  font-style: italic;
+}
+
+.md-footer__link {
+  text-transform: lowercase;
+}
+
+.md-footer-meta {
+  background-color: var(--md-footer-bg-color);
+  text-transform: lowercase;
+  opacity: 0.7;
+}
+
+li::marker {
+  color: var(--md-default-fg-color--lighter);
+}
+
+/* blockquote a {
+  background-color: var(--md-default-fg-color--lightest);
+  padding: 0 5px;
+  border-radius: 6px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 0.85em;
+} */
+
+.tabbed-block a {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-style: normal;
+  box-shadow: inset 0 -10px 0 0 var(--md-default-fg-color--lightest);
+}
+
+.tabbed-block a:hover {
+color:var(--md-code-hl-special-color);
+}
+
+blockquote blockquote {
+  background-color: transparent !important;
+  border-left: 3px solid var(--md-default-fg-color--lightest) !important;
+margin: 0 !important;
+padding: 0 0 0 0.5em !important;
+  border-radius: 0px !important;
+}
+
+.tabbed-block > p > strong::after {
+  content: ".";
+}
+
+.footnote em {
+  color: var(--md-accent-fg-color);
+}
