@@ -34,7 +34,7 @@
 > 
 >     a one or two-sentence descriptor of the topic.
 >     
-> === "known battalions"
+> === "known families"
 > 
 >     * **the royal family** `official` consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 >     * **the vaillancourt family** `member-created` consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
