@@ -79,6 +79,16 @@
 
 ## PERSONAL & TIE-INS
 
+#### [MERCHANT OF VENICE](https://moon-rise.boards.net/thread/520/)
+
+> === "overview"
+> 
+>     **APRIL 2022 — AELMOR, WEST SALEM SEA**
+>     `DMITRI WISBANE` `TIE-IN: SERAFIM` brief thread summary here.
+> 
+> === "details"
+> 
+>     * thread details go here.
 
 #### [THREAD TITLE](https://moon-rise.boards.net/post/4593/thread)
 
