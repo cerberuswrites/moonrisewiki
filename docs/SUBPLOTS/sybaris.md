@@ -20,7 +20,7 @@
 > === "npcs"
 > 
 >     * **JAMIE LOCKHART** `minor npc` an infamously idle rich kid in sybaris, who hosted this year's *witch wrestling supershow*.
->     * **UNKNOWN** `minor npc` made an appearance in [a house divided](https://moon-rise.boards.net/thread/318/house-divided). a witch in the audience who had said *contra mundum* to jamie, albeit to no effect.
+>     * **UNKNOWN** `minor npc` made an appearance in [a house divided](https://moon-rise.boards.net/thread/318/house-divided). a witch in the audience who had said *contra mundum*[^1] to jamie, albeit to no effect.
 
 #### 003 — [THE MUTINEERS](https://moon-rise.boards.net/thread/491/)
 
@@ -36,4 +36,6 @@
 > === "player involvement"
 > 
 >     * **[KASIMIR & SIOBHAN](https://moon-rise.boards.net/thread/509/)** `PLAYED BY ASH & VODKA` rising political tension turns a spar into a stage for public opinion: some sybarites seem to be split between *cooperating with the council* by *signing the aegis accords*, while others seem convinced that dmitri would *do no such thing*.
->       
+
+
+[^1]: a *name without a face*. appears to reflect hydra interest in sybaris, as mentioned in [[../npc threads#SNAKES IN EDEN|snakes in eden]].

@@ -31,4 +31,4 @@
 >     * **[MILO & AIDEN](https://moon-rise.boards.net/thread/611)** `PLAYED by PAN & KIMMY` they successfully apprehend some of the highwaymen, but are swiftly escorted away by a squadron of *hunters*. two weeks later, a cerberus *funeral* is announced: *an entire squadron* has been wiped out in the depths of *the jairwood*.
 
 
-[^1]: who is rowenna? what is her connection with eclipse? why has she disappeared?
+[^1]: a *name without a face*. who is rowenna? what is her connection with eclipse? why has she disappeared?

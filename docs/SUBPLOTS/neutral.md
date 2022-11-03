@@ -30,12 +30,26 @@
 > === "overview"
 > 
 >     **APRIL 2022 — DOWNTOWN DELPHI & TARTARUS**
->     a series of scheduled protests around the *[[../EVENTS/cad takeover#CONSEQUENCES|sybaris-STA deal]]* breaks into a *violent riot*, fuelled by a rise in *anti-witch sentiment*. note: this mission cycle has a *special epilogue*. read about it [[../npc threads#IGNITION PT. I, EPILOGUE|here]].
+>     a series of scheduled protests around the *[[../EVENTS/cad takeover#CONSEQUENCES|sybaris-STA deal]]* breaks into a *violent riot*, fuelled by a rise in *anti-witch sentiment*.
 > 
 > === "npcs"
 > 
->     * **DMITRI** `MAJOR npc` description of involvement here.
->     * **FARAH** `MAJOR npc` description of involvement here.
->     * **CAIN** `MAJOR npc` description of involvement here.
->     * **EMMA** `Minor npc` description of involvement here.
+>     * this mission cycle has a *special epilogue*, that involved *dmitri wisbane*, *farah serizawa*, *cain delacour*, and *emma*. read about it [[../npc threads#IGNITION PT. I, EPILOGUE|here]]. 
 
+####  004 — [DON'T MAKE WAVES](https://moon-rise.boards.net/thread/659)
+
+> === "overview"
+> 
+>     **MAY 2022 — WORLD'S END BEACH, DELPHI**
+>     in preparation for the summer *tourist season*, the city calls for *volunteers* to clean up the beach. this year, however, the council asks for volunteering witches not to use their magic, citing concerns over high tensions and rising *anti-witch sentiments*.
+> 
+> === "rumors"
+> 
+>     * the epilogues of this mission cycle focus on *rumors* that characters overhear at the beach.
+>     * in [seaglass](https://moon-rise.boards.net/post/5935/thread), trouble seems to be stirring in [[../FAQ/locations#THE VALE|the vale]], with some blaming the *monarchists*. interestingly, some things hit closer to home — doesn't *[[../FAQ/locations#PYTHIA|pythia]]* have its own rulers too, despite floating right above delphi?
+>     * in [community service again](https://moon-rise.boards.net/post/5338/thread), queenie is one of many witches to receive a *prophecy* after attending the events of the [[../MAJOR EVENTS/pegasus afterparty|pegasus afterparty]]. in it, she seems to witness the death of her covenmate, maddox.
+>     * in [clean up, everybody do your part](https://moon-rise.boards.net/thread/679/), some speculate about the [[../MAJOR EVENTS/augury of the phoenix|augury of the phoenix]], wondering about the *scarred rupture* hanging above *the cemetery*[^1].
+>     * in [washed up like seafoam](https://moon-rise.boards.net/thread/669/), rumor has it that *cerberus* witches were seen at *bell's*[^2].
+
+[^1]: the *cemetery* likely refers to the *garden of hades*, located in the slums.
+[^2]: "bell's" likely refers to *bell's bar*, a bar in tartarus. it was also involved in the events of [no heroes](https://moon-rise.boards.net/thread/1561/heroes-quest), a personal quest.

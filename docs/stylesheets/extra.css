@@ -6,6 +6,7 @@
 --md-primary-fg-color--dark: #6F70CE;
 --md-default-bg-color: #1E1F27;
 --md-default-fg-color: hsla(var(--md-hue),5%,75%,1);
+--md-default-fg-color--lighter: hsla(var(--md-hue),75%,90%,0.1);
 --md-default-fg-color--lightest: hsla(var(--md-hue),75%,90%,0.05);
 }
 
@@ -185,6 +186,6 @@ padding: 0 0 0 0.5em !important;
   border-radius: 0px !important;
 }
 
-.tabbed-block > p > strong {
-  display: block;
+.tabbed-block > p > strong::after {
+  content: ".";
 }

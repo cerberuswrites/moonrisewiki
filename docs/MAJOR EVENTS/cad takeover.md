@@ -1,5 +1,6 @@
 # CAD TAKEOVER
 
+- cad takeover + six pointed star
 ## OVERVIEW
 
 #### MAIN THREAD TITLE
